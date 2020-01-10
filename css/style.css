@@ -7716,7 +7716,7 @@ h1, h2, h3, h4, h5,
     margin-top: -100px; }
     @media (min-width: 768px) {
       .ftco-intro .container {
-        margin-top: -100px; } }
+        margin-top: -20px; } }
   .ftco-intro .color-1 {
     background: #2cbcbc; }
   .ftco-intro .color-2 {
