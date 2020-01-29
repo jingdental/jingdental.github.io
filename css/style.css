@@ -3667,6 +3667,8 @@ input[type="button"].btn-block {
 
 .card-img {
   width: 100%;
+  margin-top: 35%;
+  margin-bottom: 30%;
   border-radius: calc(0.25rem - 1px); }
 
 .card-img-top {
